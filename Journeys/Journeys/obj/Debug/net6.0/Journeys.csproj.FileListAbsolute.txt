@@ -1,0 +1,15 @@
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\Journeys.exe
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\journeys.json
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\Journeys.deps.json
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\Journeys.runtimeconfig.json
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\Journeys.dll
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\bin\Debug\net6.0\Journeys.pdb
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.GeneratedMSBuildEditorConfig.editorconfig
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.AssemblyInfoInputs.cache
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.AssemblyInfo.cs
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.csproj.CoreCompileInputs.cache
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.dll
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\refint\Journeys.dll
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.pdb
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\Journeys.genruntimeconfig.cache
+T:\Balogh Bence\14F\WPF\2024.03.20_VizsgaGyak_22Jul\Journeys\Journeys\obj\Debug\net6.0\ref\Journeys.dll
